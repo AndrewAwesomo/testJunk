@@ -2,3 +2,7 @@
 
 a = "hello world"
 print(a)
+
+print('you suck')
+
+print('butts')
