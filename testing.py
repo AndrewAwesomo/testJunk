@@ -2,7 +2,8 @@
 
 a = "hello world"
 print(a)
+print(a)
 
-print('you suck')
+print('you lick')
 
 print('butts')
